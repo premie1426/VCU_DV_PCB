@@ -1,8 +1,6 @@
 # VCU — Vehicle Control Unit
 
 ![PCB](https://img.shields.io/badge/PCB-Custom-blue)
-![CAN](https://img.shields.io/badge/Comm-CAN%20%7C%20UART-teal)
-![Status](https://img.shields.io/badge/Status-Active-green)
 ![Comm](https://img.shields.io/badge/Comm-CAN%20%7C%20UART%20%7C%20SPI-teal)
 
 The **VCU (Vehicle Control Unit)** is a custom-designed PCB built for embedded vehicle systems. 
@@ -36,13 +34,24 @@ telemetry into a single compact board.
 ## PCB
 
 <p align="center">
-  <img src="hardware/images/vcu_top.png" alt="VCU PCB Top" width="45%"/>
+  <img src="Images/PCB.png" alt="VCU PCB Top" width="45%"/>
   &nbsp;&nbsp;
-  <img src="hardware/images/vcu_bottom.png" alt="VCU PCB Bottom" width="45%"/>
 </p>
 
 <p align="center">
-  <em>VCU rev1.0 — top and bottom copper layers</em>
+  <em>VCU rev1.0</em>
+</p>
+
+## 3D View
+
+<p align="center">
+  <img src="Images/3D-Front.png" alt="VCU 3D View Top" width="45%"/>
+  &nbsp;&nbsp;
+  <img src="Images/3D-Back.png" alt="VCU 3D View Bottom" width="45%"/>
+</p>
+
+<p align="center">
+  <em>VCU rev1.0 — 3D render from Altium</em>
 </p>
 
 
