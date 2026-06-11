@@ -36,7 +36,10 @@ ConstraintManagerFlow=0
 IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=
+ManagedProjectGUID=1C130B85-4995-45F9-A605-4DF78665FB59
+VaultGUID=71A59581-A797-49A6-A1CA-F80B1C6170CA
+ReleaseVaultName=Formula Manipal Electrical
+ItemGUID=1C130B85-4995-45F9-A605-4DF78665FB59
 IncludeDesignInRelease=0
 CrossRefSheetStyle=1
 CrossRefLocationStyle=1
@@ -100,138 +103,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document4]
-DocumentPath=CAMtastic1.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document5]
-DocumentPath=CAMtastic2.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [GeneratedDocument1]
 DocumentPath=Project Outputs for VCU_DV\Design Rule Check - VCU_DV.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for VCU_DV\VCU_DV.1
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for VCU_DV\VCU_DV.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for VCU_DV\VCU_DV.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for VCU_DV\VCU_DV.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for VCU_DV\VCU_DV.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for VCU_DV\VCU_DV.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for VCU_DV\VCU_DV.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for VCU_DV\VCU_DV.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for VCU_DV\VCU_DV.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for VCU_DV\VCU_DV.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for VCU_DV\VCU_DV.GM
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for VCU_DV\VCU_DV.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for VCU_DV\VCU_DV.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for VCU_DV\VCU_DV.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for VCU_DV\VCU_DV.GML
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for VCU_DV\VCU_DV.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for VCU_DV\VCU_DV.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for VCU_DV\VCU_DV.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for VCU_DV\VCU_DV.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for VCU_DV\VCU_DV.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for VCU_DV\VCU_DV.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for VCU_DV\VCU_DV.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for VCU_DV\VCU_DV.REP
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for VCU_DV\VCU_DV.TXT
 DItemRevisionGUID=
 
 [Configuration1]
