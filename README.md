@@ -40,7 +40,7 @@ telemetry into a single compact board.
 </p>
 
 <p align="center">
-  <em>VCU rev1.0</em>
+  <em>VCU</em>
 </p>
 
 ## 3D View
@@ -52,7 +52,7 @@ telemetry into a single compact board.
 </p>
 
 <p align="center">
-  <em>VCU rev1.0 — 3D render from Altium</em>
+  <em>VCU — 3D render from Altium</em>
 </p>
 
 
